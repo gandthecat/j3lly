@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <integer-array name = "Jellies">
+        <item>@drawable/bluejelly</item>
+        <item>@drawable/greenjelly</item>
+        <item>@drawable/blackjelly</item>
+        <item>@drawable/purplejelly</item>
+        <item>@drawable/redjelly</item>
+        <item>@drawable/yellowjelly</item>
+    </integer-array>
+
+</resources>
